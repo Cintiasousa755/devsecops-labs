@@ -475,4 +475,4 @@ Agora que o ciclo está funcionando, experimente:
 
 ---
 
-*Versão do material: Abril/2026 • ADA TECH DevSecOps Módulo — Lab 01*
+*Versão do material: Abril/2026 • ADA TECH DevSecOps Módulo —  Lab 01*
